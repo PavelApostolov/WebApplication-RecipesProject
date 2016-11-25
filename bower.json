@@ -1,0 +1,20 @@
+{
+  "name": "teamproject",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Pavel Apostolov <pavel.apostolov@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/PavelApostolov/WebApplication-RecipesProject",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

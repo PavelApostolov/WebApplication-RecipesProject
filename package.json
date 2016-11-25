@@ -1,0 +1,29 @@
+{
+  "name": "teamproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelApostolov/WebApplication-RecipesProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelApostolov/WebApplication-RecipesProject/issues"
+  },
+  "homepage": "https://github.com/PavelApostolov/WebApplication-RecipesProject#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "nodemon": "^1.11.0"
+  }
+}
